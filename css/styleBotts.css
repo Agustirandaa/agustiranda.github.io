@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #F5F6F7;
+    min-height: 1600px;
+}
+nav{
+    background-color: #21687C;
+    padding: 10px;
+}
+
+.jumbotron{
+    background: #DEDEDE;
+    padding-top: 3rem;
+}
+
+.jumbotron h1{
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#about{
+    background: #FFF;
+}
+
+.fs-6{
+    text-align: justify;
+}
+
+h2{
+    font-family: 'Comic Sans MS';
+}
+
+#feature{
+    background: #DEDEDE;
+}
+#contact{
+    background: #FFF;
+    min-height: 700px;
+}
