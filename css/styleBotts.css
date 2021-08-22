@@ -33,7 +33,7 @@ h2{
     font-family: 'Comic Sans MS';
 }
 
-#feature{
+#feature, #footer{
     background: #DEDEDE;
 }
 #contact{
